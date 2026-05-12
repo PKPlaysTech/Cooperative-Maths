@@ -225,7 +225,7 @@ button:active {
 .planet-2 {
     width: 150px;
     bottom: 5%;
-    right: 5%;
+    right: 2%;
     animation-delay: 2s;
     animation-duration: 10s;
 }
