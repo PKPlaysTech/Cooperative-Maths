@@ -218,14 +218,14 @@ button:active {
 
 .planet-1 {
     width: 250px;
-    top: 10%;
-    left: 10%;
+    top: 5%;
+    left: 5%;
 }
 
 .planet-2 {
     width: 150px;
-    bottom: 15%;
-    right: 15%;
+    bottom: 5%;
+    right: 5%;
     animation-delay: 2s;
     animation-duration: 10s;
 }
