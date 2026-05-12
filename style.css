@@ -59,8 +59,11 @@ body {
 
 .agent-inputs {
     display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 40px;
     margin: 30px 0;
+    width: 100%;
 }
 
 .agent-input-box {
